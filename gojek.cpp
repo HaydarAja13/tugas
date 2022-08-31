@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
 {
 	string g;
 	int jarak, biaya;
-	cout<<"goride?gocar"<<endl;
+	cout<<"goride?gocar?"<<endl;
 	cin>>g;
 	if(g=="goride") {
 		cout<<"pilih jarak mu"<<endl;
